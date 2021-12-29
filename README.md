@@ -1,6 +1,6 @@
 # Coursemate
 ## Overview
-A cross-platform mobile application that helps HKU students to verify the feasibility of their course selection and recommend available time slots for group meetings.
+*Coursemate* is a cross-platform mobile application that helps HKU students to verify the feasibility of their course selection and recommend available time slots for group meetings.
 
 ## Demo Pics
 <img src="assets/readme/course-planner.png" width=300 /> <img src="assets/readme/group-meeting.png" width=300 /> <img src="assets/readme/user-search.png" width=300 />
