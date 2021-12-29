@@ -28,4 +28,4 @@ Choose to run the app on a Android/iOS device in the section shown below. Downlo
 
 <img src="assets/readme/expo-run-app.png" width=300 />
 
-Now ***Coursemate*** should be running on the mobile device! Have fun!
+Now ***Coursemate*** should be running on the mobile device!
