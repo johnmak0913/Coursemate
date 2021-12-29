@@ -1,6 +1,6 @@
 # Coursemate
 ## Overview
-*Coursemate* is a cross-platform mobile application that helps HKU students to verify the feasibility of their course selection and recommend available time slots for group meetings.
+***Coursemate*** is a cross-platform mobile application that helps HKU students to verify the feasibility of their course selection and recommend available time slots for group meetings.
 
 ## Demo Pics
 <img src="assets/readme/course-planner.png" width=300 /> <img src="assets/readme/group-meeting.png" width=300 /> <img src="assets/readme/user-search.png" width=300 />
@@ -17,15 +17,15 @@ Execute the following command in a local directory:
 Install yarn with ``` npm install --global yarn ```.
 
 ### 3. Install dependencies
-Go to the cloned directory "Coursemate".
+Go to the cloned directory ***Coursemate***.
 
 Install all dependencies with ``` yarn install ```.
 
 ### 4. Run the app
 Run the app with ``` yarn run ```, then type ``` start ```.
 
-Choose to run the app on a Android/iOS device in the section shown below. Download the app "Expo Go" on a mobile device and scan the Expo QR code shown below with "Expo Go".
+Choose to run the app on a Android/iOS device in the section shown below. Download the app ***Expo Go*** on a mobile device and scan the Expo QR code shown below with ***Expo Go***.
 
 <img src="assets/readme/expo-run-app.png" width=300 />
 
-Now "Coursemate" should be running on the mobile device! Have fun!
+Now ***Coursemate*** should be running on the mobile device! Have fun!
